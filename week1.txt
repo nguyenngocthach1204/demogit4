@@ -1,2 +1,3 @@
 day la file week1
 thuoc main
+them vao
