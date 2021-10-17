@@ -1,2 +1,2 @@
 day la file test.txt
-thuoc week1
+thuoc main
